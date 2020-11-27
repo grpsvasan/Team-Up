@@ -2467,7 +2467,7 @@ export default (() => {
 				text-align="center"
 				font="--lead"
 			>
-				{" "}Blog is about  Govt related services,and tech for daily living
+				{" "}Blog  about  Govt related services,and tech for daily living
 				<br />
 				and latest updates{" "}
 			</Text>
@@ -2476,10 +2476,7 @@ export default (() => {
 					<Override slot="StackItemContent" flex-direction="column" />
 					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=582&q=80) 50% 0/cover no-repeat" />
 					<Text color="--grey" margin="0">
-						PAN Card
-					</Text>
-					<Text as="h3" font="--headline3" margin="5px 0 20px 0">
-						Updates
+						About PAN Card                  Updates
 					</Text>
 					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=582&q=80) 50% 0/cover no-repeat" />
 					<Text color="--grey" margin="0">
