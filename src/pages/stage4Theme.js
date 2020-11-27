@@ -2467,12 +2467,13 @@ export default (() => {
 				text-align="center"
 				font="--lead"
 			>
-				This blog is about various Govt related services,and tech for daily living{" "}
+				{" "}Blog is about  Govt related services,and tech for daily living
+				<br />
+				and latest updates{" "}
 			</Text>
 			<Stack margin-top="40px">
 				<StackItem width="25%" lg-width="50%" sm-width="100%">
 					<Override slot="StackItemContent" flex-direction="column" />
-					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=582&q=80) 50% 0/cover no-repeat" />
 					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=582&q=80) 50% 0/cover no-repeat" />
 					<Text color="--grey" margin="0">
 						PAN Card
@@ -2480,13 +2481,9 @@ export default (() => {
 					<Text as="h3" font="--headline3" margin="5px 0 20px 0">
 						Updates
 					</Text>
-				</StackItem>
-				<StackItem width="25%" lg-width="50%" sm-width="100%" sm-margin-top="24px">
-					<Override slot="StackItemContent" flex-direction="column" />
-					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1546672741-d327539d5f13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80) 50% 0/cover no-repeat" />
-					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1546672741-d327539d5f13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80) 50% 0/cover no-repeat" />
+					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=582&q=80) 50% 0/cover no-repeat" />
 					<Text color="--grey" margin="0">
-						AAdhar Card
+						Ration Card
 					</Text>
 					<Text as="h3" font="--headline3" margin="5px 0 20px 0">
 						Updates
@@ -2494,7 +2491,23 @@ export default (() => {
 				</StackItem>
 				<StackItem width="25%" lg-width="50%" sm-width="100%" sm-margin-top="24px">
 					<Override slot="StackItemContent" flex-direction="column" />
-					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80) 50% 0/cover no-repeat" />
+					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1546672741-d327539d5f13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80) 50% 0/cover no-repeat" />
+					<Text color="--grey" margin="0">
+						AAdhar Card
+					</Text>
+					<Text as="h3" font="--headline3" margin="5px 0 20px 0">
+						Updates
+					</Text>
+					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1546672741-d327539d5f13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80) 50% 0/cover no-repeat" />
+					<Text color="--grey" margin="0">
+						Driver License
+					</Text>
+					<Text as="h3" font="--headline3" margin="5px 0 20px 0">
+						Updates
+					</Text>
+				</StackItem>
+				<StackItem width="25%" lg-width="50%" sm-width="100%" sm-margin-top="24px">
+					<Override slot="StackItemContent" flex-direction="column" />
 					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80) 50% 0/cover no-repeat" />
 					<Text color="--grey" margin="0">
 						Passport
@@ -2506,7 +2519,6 @@ export default (() => {
 				<StackItem width="25%" lg-width="50%" sm-width="100%" sm-margin-top="24px">
 					<Override slot="StackItemContent" flex-direction="column" />
 					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1510227272981-87123e259b17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=666&q=80) 50% 0/cover no-repeat" />
-					<Box height="0" margin="0 0 20px 0" padding-bottom="100%" background="url(https://images.unsplash.com/photo-1510227272981-87123e259b17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=666&q=80) 50% 0/cover no-repeat" />
 					<Text color="--grey" margin="0">
 						Voter ID
 					</Text>
@@ -2516,6 +2528,10 @@ export default (() => {
 				</StackItem>
 			</Stack>
 		</Section>
+		<Box />
+		<Button>
+			Button
+		</Button>
 		<Link
 			font={"--capture"}
 			font-size={"10px"}

@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/grpsvasan/Team-Up/pulls">
+    <img src="https://badgen.net/github/prs/grpsvasan/Team-Up" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/grpsvasan/Team-Up" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
